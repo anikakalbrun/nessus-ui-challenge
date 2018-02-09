@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Table first column proper title and filter 1`] = `"<th class=\\"\\" style=\\"text-align:left\\" title=\\"Server\\">Server<div><input type=\\"text\\" class=\\"filter text-filter form-control\\" placeholder=\\"Enter Server...\\" value=\\"\\"/></div></th>"`;
+
+exports[`Table fourth column proper title and filter 1`] = `"<th class=\\"\\" style=\\"text-align:left\\" title=\\"Username\\">Username<div><input type=\\"text\\" class=\\"filter text-filter form-control\\" placeholder=\\"Enter Username...\\" value=\\"\\"/></div></th>"`;
+
+exports[`Table second column proper title and filter 1`] = `"<th class=\\"\\" style=\\"text-align:left\\" title=\\"Hostname\\">Hostname<div><input type=\\"text\\" class=\\"filter text-filter form-control\\" placeholder=\\"Enter Hostname...\\" value=\\"\\"/></div></th>"`;
+
+exports[`Table third column proper title and filter 1`] = `"<th class=\\"\\" style=\\"text-align:left\\" title=\\"Port\\">Port<div><input type=\\"text\\" class=\\"filter text-filter form-control\\" placeholder=\\"Enter Port...\\" value=\\"\\"/></div></th>"`;

@@ -1,0 +1,5 @@
+applications:
+  - name: nessus-ui-challenge-react
+    path: build
+    buildpack: staticfile_buildpack
+    memory: 64MB
