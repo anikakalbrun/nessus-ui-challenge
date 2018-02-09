@@ -1,5 +1,5 @@
 applications:
-  - name: nessus-ui-challenge-react
+  - name: tenable-nessus-ui-challenge
     path: build
     buildpack: staticfile_buildpack
     memory: 64MB
